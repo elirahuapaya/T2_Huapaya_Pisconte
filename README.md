@@ -15,3 +15,9 @@ Evaluación (T2) del curso Lenguaje de Programación II relizada el dia 05/10/20
 ## Control de cambios
 
 En esta parte del trabajo se practicó el manejo del Working Directory, el Staging Area y el repositorio local: se modificaron archivos, se revisaron las diferencias con git diff, se retiraron cambios del staging y se descartaron modificaciones no deseadas antes de confirmar los cambios válidos.
+
+## Gestión de ramas
+
+Rama utilizada: feature-huapaya
+
+En esta rama se creó la clase ControlVersion_Huapaya.java dentro de src/main/java, que muestra en consola un mensaje identificando a la estudiante y señalando que la funcionalidad fue desarrollada desde una rama independiente. Los cambios se confirmaron en la rama y luego se fusionaron con main.
