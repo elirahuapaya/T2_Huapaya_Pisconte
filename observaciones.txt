@@ -1,0 +1,2 @@
+Observaciones de la Evaluacion 02 - Lenguaje de Programacion II.
+Durante esta evaluacion se practico el control de cambios con Git, diferenciando entre el Working Directory, el Staging Area y el repositorio local.

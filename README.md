@@ -11,3 +11,7 @@ Este repositorio fue creado para la Evaluación 02 del curso Lenguaje de Program
 ## Evidencia T2
 
 Evaluación (T2) del curso Lenguaje de Programación II relizada el dia 05/10/2026 donde estamos poniendo a prueba nuetros conocimientos aprendidos en clase. 
+
+## Control de cambios
+
+En esta parte del trabajo se practicó el manejo del Working Directory, el Staging Area y el repositorio local: se modificaron archivos, se revisaron las diferencias con git diff, se retiraron cambios del staging y se descartaron modificaciones no deseadas antes de confirmar los cambios válidos.
