@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Otros 
+*.log
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
